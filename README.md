@@ -1,0 +1,1 @@
+# rails-Single-Table-Inheritance
